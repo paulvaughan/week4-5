@@ -1,20 +1,31 @@
-ul{
+  /* ul{
   list-style: none;
   display:grid;
   grid-template-columns: 500px 500px;
   grid-gap: 20px;
   
+} */
+
+/* img{
+width: 500px;
+border:2px purple solid;
+
+} */
+
+.jumbotron {
+	color: #4f1c70;
+  font-family: 'Homemade Apple';
+  box-shadow: 12px 10px 16px rgb(111, 111, 116)
 }
 
-li img{
-width: 500px; 
-border:2px purple solid
-
+.ptag{
+  padding-top: 20px
 }
 
 body{
-  font-family: 'Rock Salt', cursive;
+  font-family: 'Homemade Apple', cursive;
+  padding-top: 50px;
   text-align: center;
-  background-image: url(https://images.unsplash.com/photo-1497005367839-6e852de72767?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1947&q=80); 
+  background-image: url(https://images.unsplash.com/photo-1500067025552-cfb5c7a369ed?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1949&q=80); 
   background-size: cover
-}
+}  
