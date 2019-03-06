@@ -38,4 +38,5 @@ body{
 .thumbnail img:hover{
   transform: scale(1.16);
   -webkit-transform: scale(1.16);
-}
+  -ms-transform: scale(1.16);
+} 
