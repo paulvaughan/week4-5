@@ -29,3 +29,7 @@ body{
   background-image: url(https://images.unsplash.com/photo-1500067025552-cfb5c7a369ed?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1949&q=80); 
   background-size: cover
 }  
+
+.thumbnail img{
+  border: 2px solid grey
+} 
